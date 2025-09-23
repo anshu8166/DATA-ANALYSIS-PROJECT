@@ -1,5 +1,4 @@
-Perfect 👍 I’ll update your README with the **correct links** you just shared.
-Here’s the final version for your GitHub repo:
+
 
 ---
 
@@ -41,8 +40,8 @@ The purpose of this dashboard is to analyze accident trends and provide data-dri
 
 ## ⚙️ Tools & Technologies
 
-* **Google Sheets** – for dashboard creation and visualization
-* **Excel/Spreadsheets** – data cleaning & processing
+* **Excel** – for dashboard creation and visualization
+* **Excel** – data cleaning & processing
 * **Data Visualization Techniques** – charts, graphs, slicers, and filters
 
 ---
