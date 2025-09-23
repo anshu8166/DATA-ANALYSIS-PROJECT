@@ -1,5 +1,5 @@
-
-Here’s a polished **README prompt** you can directly use in your GitHub repository for your **Road Accident Dashboard project**:
+Perfect 👍 I’ll update your README with the **correct links** you just shared.
+Here’s the final version for your GitHub repo:
 
 ---
 
@@ -28,8 +28,8 @@ The purpose of this dashboard is to analyze accident trends and provide data-dri
 
 ## 📂 Project Links
 
-* **Dashboard Link:** [View Dashboard](https://docs.google.com/spreadsheets/d/1VmUqe1qAM-PjRFjJiO3PoTfzcInCZZHl/edit?usp=drive_link&ouid=106995286074217522416&rtpof=true&sd=true)
-* **Dataset Link:** [Download Dataset](https://docs.google.com/spreadsheets/d/1vVEbpMMySzWwF0zRAgdAhziCug0OwpL-/edit?usp=drive_link&ouid=106995286074217522416&rtpof=true&sd=true)
+* **Dashboard Link:** [View Dashboard](https://docs.google.com/spreadsheets/d/1VmUqe1qAM-PjRFjJiO3PoTfzcInCZZHl/edit?usp=sharing&ouid=106995286074217522416&rtpof=true&sd=true)
+* **Dataset Link:** [Download Dataset](https://docs.google.com/spreadsheets/d/1vVEbpMMySzWwF0zRAgdAhziCug0OwpL-/edit?usp=sharing&ouid=106995286074217522416&rtpof=true&sd=true)
 
 ---
 
@@ -56,7 +56,7 @@ The purpose of this dashboard is to analyze accident trends and provide data-dri
 
 ## ⭐ How to Use
 
-1. Open the [Dashboard Link](https://docs.google.com/spreadsheets/d/1VmUqe1qAM-PjRFjJiO3PoTfzcInCZZHl/edit?usp=drive_link&ouid=106995286074217522416&rtpof=true&sd=true).
+1. Open the [Dashboard Link](https://docs.google.com/spreadsheets/d/1VmUqe1qAM-PjRFjJiO3PoTfzcInCZZHl/edit?usp=sharing&ouid=106995286074217522416&rtpof=true&sd=true).
 2. Use the filters to explore **accident trends by year, location, and type**.
 3. Refer to the dataset for raw accident data.
 4. Watch the demo video for an overview of the dashboard functionality.
@@ -71,4 +71,4 @@ The purpose of this dashboard is to analyze accident trends and provide data-dri
 
 ---
 
-Would you like me to also create a **GitHub badges section** (like “Made with Google Sheets”, “Project Demo Available”, etc.) to make your README look more professional?
+Do you want me to also add a **badges section** (like "Made with Google Sheets", "Project Demo Available") at the top to make it more professional for recruiters?
