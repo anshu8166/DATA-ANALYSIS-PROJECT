@@ -27,7 +27,7 @@ The purpose of this dashboard is to analyze accident trends and provide data-dri
 
 ## 📂 Project Links
 
-* **Dashboard Link:** [View Dashboard](https://docs.google.com/spreadsheets/d/1VmUqe1qAM-PjRFjJiO3PoTfzcInCZZHl/edit?usp=sharing&ouid=106995286074217522416&rtpof=true&sd=true)
+* **Dashboard Link:** [View Dashboard](https://1drv.ms/x/c/3173dc078bea1aaa/EadnwejAO6tKmcJpISc_xeIBiJln-yb-5_mc84ZtdLoRFA?e=5rfLEQ)
 * **Dataset Link:** [Download Dataset](https://docs.google.com/spreadsheets/d/1vVEbpMMySzWwF0zRAgdAhziCug0OwpL-/edit?usp=sharing&ouid=106995286074217522416&rtpof=true&sd=true)
 
 ---
