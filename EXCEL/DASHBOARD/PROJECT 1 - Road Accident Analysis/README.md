@@ -1,4 +1,4 @@
-
+<img width="1916" height="1020" alt="image" src="https://github.com/user-attachments/assets/998c1f0f-f184-4a3a-8913-819ce5420d18" />
 
 ---
 
@@ -27,7 +27,8 @@ The purpose of this dashboard is to analyze accident trends and provide data-dri
 
 ## 📂 Project Links
 
-* **Dashboard Link:** [View Dashboard](https://1drv.ms/x/c/3173dc078bea1aaa/EadnwejAO6tKmcJpISc_xeIBiJln-yb-5_mc84ZtdLoRFA?e=5rfLEQ)
+* **Dashboard Link:** [View Dashboard] (https://1drv.ms/x/c/3173dc078bea1aaa/EYoSyj_u0llMt_xdxHrJKigBQhDR1UUOPKn9EJpjSQFRBA?e=vRkAUa)
+
 * **Dataset Link:** [Download Dataset](https://1drv.ms/x/c/3173dc078bea1aaa/EZjXoc42LfdEohzUBkcV-PoBp8KYZVGSNW_ALB-Q2r0cMg?e=feeSQb)
 
 ---
