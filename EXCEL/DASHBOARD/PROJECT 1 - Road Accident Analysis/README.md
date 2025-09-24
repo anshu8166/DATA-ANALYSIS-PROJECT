@@ -55,7 +55,7 @@ The purpose of this dashboard is to analyze accident trends and provide data-dri
 
 ## ⭐ How to Use
 
-1. Open the [Dashboard Link](https://docs.google.com/spreadsheets/d/1VmUqe1qAM-PjRFjJiO3PoTfzcInCZZHl/edit?usp=sharing&ouid=106995286074217522416&rtpof=true&sd=true).
+1. Open the [View Dashboard](https://1drv.ms/x/c/3173dc078bea1aaa/EadnwejAO6tKmcJpISc_xeIBiJln-yb-5_mc84ZtdLoRFA?e=5rfLEQ)
 2. Use the filters to explore **accident trends by year, location, and type**.
 3. Refer to the dataset for raw accident data.
 4. Watch the demo video for an overview of the dashboard functionality.
@@ -70,4 +70,3 @@ The purpose of this dashboard is to analyze accident trends and provide data-dri
 
 ---
 
-Do you want me to also add a **badges section** (like "Made with Google Sheets", "Project Demo Available") at the top to make it more professional for recruiters?
