@@ -31,8 +31,7 @@ The purpose is to provide **data-driven insights** to optimize resource allocati
 
 ### 📷 Dashboard Preview
 
-
-*(Replace this line with the direct image embed code once uploaded to your GitHub repo, e.g., `![Dashboard Main View](assets/dashboard_preview.png)`)*
+**![Dashboard Main View](Screenshot 2025-11-08 232538.png)**
 
 ---
 
