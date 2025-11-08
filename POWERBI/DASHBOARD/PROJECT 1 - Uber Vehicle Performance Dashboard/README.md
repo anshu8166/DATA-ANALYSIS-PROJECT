@@ -31,8 +31,8 @@ The purpose is to provide **data-driven insights** to optimize resource allocati
 
 ### 📷 Dashboard Preview
 
-[**View Dashboard Preview (via Google Drive)**](https://drive.google.com/file/d/17jYFmqEqikFwNULw0p8G85jWXGvZDtjS/view?usp=sharing)
 
+**![Uber Operations Dashboard Main View](../Screenshot 2025-11-08 232538.png)**
 ---
 
 ### ⚙️ Tools & Technologies
