@@ -49,9 +49,13 @@ The purpose is to provide **data-driven insights** to optimize resource allocati
 ### ⭐ How to Use the Dashboard
 
 1.  Open the [**Dashboard Preview/File Folder**](https://drive.google.com/drive/folders/19V5QJf8bUTIsfmZkbUU52rTRIwjaEGW2?usp=sharing) to view the project output.
+
 2.  Use the **vehicle type selection** buttons to filter the data for specific services like 'Uber XL' or 'Auto'.
+
 3.  Utilize the **Month/Quarter slicers** to explore time-based trends in revenue and bookings.
+
 4.  Focus on the **Cancellation charts** to identify the most significant points of operational failure (Driver vs. Customer).
+
 5.  Watch the demo video for a guided tour of the dashboard's features.
 
 ---
