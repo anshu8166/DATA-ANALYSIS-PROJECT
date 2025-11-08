@@ -15,7 +15,7 @@ Each project is designed to transform raw data into actionable visual stories, d
 | Project Name | Primary Tool | Focus Area | Status |
 | :--- | :--- | :--- | :--- |
 | **PROJECT 1 - Road Accident Dashboard** | **Microsoft Excel** | Road Safety & Casualty Analysis | Complete |
-| **PROJECT 2 - Uber Vehicle Performance Dashboard** | ** Power BI** | Ride-Sharing Operations & Service Efficiency | Complete |
+| **PROJECT 2 - Uber Vehicle Performance Dashboard** | **Power BI** | Ride-Sharing Operations & Service Efficiency | Complete |
 
 ---
 
