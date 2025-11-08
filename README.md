@@ -15,7 +15,7 @@ Each project is designed to transform raw data into actionable visual stories, d
 | Project Name | Primary Tool | Focus Area | Status |
 | :--- | :--- | :--- | :--- |
 | **PROJECT 1 - Road Accident Dashboard** | **Microsoft Excel** | Road Safety & Casualty Analysis | Complete |
-| **PROJECT 2 - Uber Vehicle Performance Dashboard** | **[Specify the Tool Used: e.g., Power BI/Tableau/Excel]** | Ride-Sharing Operations & Service Efficiency | Complete |
+| **PROJECT 2 - Uber Vehicle Performance Dashboard** | ** Power BI** | Ride-Sharing Operations & Service Efficiency | Complete |
 | *[Add Future Project Name]* | *[Tool]* | *[Focus]* | *In Progress/Planning* |
 
 ---
@@ -53,7 +53,7 @@ A comparative analysis of Uber's multi-service operations, including **Auto, Bik
 
 #### Technical Details:
 
-* **File:** `EXCEL/DASHBOARD/PROJECT 2 - Anshu directory/[Dashboard File Name]` (If this is not an Excel file, ensure you specify the correct file type in your repository).
+* **File:** `EXCEL/DASHBOARD/PROJECT 2 - Anshu directory/[Dashboard File Name]` 
 * **Skills:** Data cleaning, Comparative Analysis, Time-Series Visualization, and **[Add a specific technical skill, e.g., DAX/Power Query]**.
 
 ---
