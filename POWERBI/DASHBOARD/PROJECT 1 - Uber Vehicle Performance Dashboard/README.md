@@ -19,7 +19,7 @@ The purpose is to provide **data-driven insights** to optimize resource allocati
 
 ---
 
-### 📽️ Demo & Previews
+### 📽️ Demo & Project Links
 
 | Content Type | URL |
 | :--- | :--- |
@@ -32,7 +32,7 @@ The purpose is to provide **data-driven insights** to optimize resource allocati
 ### 📷 Dashboard Preview
 
 
-*(Replace this line with the direct image embed code once uploaded to your GitHub repo, e.g., `![Dashboard Main View](images/dashboard_preview.png)`)*
+*(Replace this line with the direct image embed code once uploaded to your GitHub repo, e.g., `![Dashboard Main View](assets/dashboard_preview.png)`)*
 
 ---
 
@@ -40,22 +40,18 @@ The purpose is to provide **data-driven insights** to optimize resource allocati
 
 | Category | Tool/Technology | Role in Project |
 | :--- | :--- | :--- |
-| **Dashboarding** | **[Power BI ]** | Primary tool for visualization and interactivity. |
-| **Data Processing** | **[e.g., Power Query  / Excel]** | Data cleaning, transformation, and shaping. |
+| **Dashboarding** | **[Specify the Tool: e.g., Power BI / Tableau / Excel]** | Primary tool for visualization and interactivity. |
+| **Data Processing** | **[e.g., Power Query (M Language) / Python Pandas / Excel]** | Data cleaning, transformation, and shaping. |
 | **Analysis** | Data Visualization Techniques | Implementing charts, graphs, slicers, and filters. |
 
 ---
 
 ### ⭐ How to Use the Dashboard
 
-1.  **Open the Dashboard File** link above.
-
+1.  Open the [**Dashboard Preview/File Folder**](https://drive.google.com/drive/folders/19V5QJf8bUTIsfmZkbUU52rTRIwjaEGW2?usp=sharing) to view the project output.
 2.  Use the **vehicle type selection** buttons to filter the data for specific services like 'Uber XL' or 'Auto'.
-
 3.  Utilize the **Month/Quarter slicers** to explore time-based trends in revenue and bookings.
-
 4.  Focus on the **Cancellation charts** to identify the most significant points of operational failure (Driver vs. Customer).
-
 5.  Watch the demo video for a guided tour of the dashboard's features.
 
 ---
