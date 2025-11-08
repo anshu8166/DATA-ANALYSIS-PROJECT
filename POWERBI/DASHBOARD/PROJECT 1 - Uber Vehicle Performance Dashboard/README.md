@@ -32,8 +32,7 @@ The purpose is to provide **data-driven insights** to optimize resource allocati
 ### 📷 Dashboard Preview
 
 
-**![Uber Operations Dashboard Main View](../Screenshot 2025-11-08 232538.png)**
----
+[Road Accident Dashboard](./Road%20Accident%20Dashboard.png)---
 
 ### ⚙️ Tools & Technologies
 
