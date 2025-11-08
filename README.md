@@ -16,7 +16,6 @@ Each project is designed to transform raw data into actionable visual stories, d
 | :--- | :--- | :--- | :--- |
 | **PROJECT 1 - Road Accident Dashboard** | **Microsoft Excel** | Road Safety & Casualty Analysis | Complete |
 | **PROJECT 2 - Uber Vehicle Performance Dashboard** | ** Power BI** | Ride-Sharing Operations & Service Efficiency | Complete |
-| *[Add Future Project Name]* | *[Tool]* | *[Focus]* | *In Progress/Planning* |
 
 ---
 
@@ -53,8 +52,8 @@ A comparative analysis of Uber's multi-service operations, including **Auto, Bik
 
 #### Technical Details:
 
-* **File:** `EXCEL/DASHBOARD/PROJECT 2 - Anshu directory/[Dashboard File Name]` 
-* **Skills:** Data cleaning, Comparative Analysis, Time-Series Visualization, and **[Add a specific technical skill, e.g., DAX/Power Query]**.
+* **File:** `POWERBI/DASHBOARD/PROJECT  - Uber Vehicle Performance Dashboard-` 
+* **Skills:** Data cleaning, Comparative Analysis, Time-Series Visualization, and **[DAX/Power Query]**.
 
 ---
 
@@ -63,9 +62,8 @@ A comparative analysis of Uber's multi-service operations, including **Auto, Bik
 I welcome feedback, collaboration ideas, and discussions on data analysis best practices.
 
 * **Email:** **Anshukumar93939@gmail.com**
-* **LinkedIn:** [**Insert your LinkedIn Profile Link Here**]
+* **LinkedIn:** [**www.linkedin.com/in/anshu-kumar-tiwari-755a3b25b**]
 
 ---
 **Note:** Remember to **create a file named `README.md`** in the root of your repository and paste this content into it. You should also replace the bracketed placeholders with your specific information!
 
-Would you like help with another aspect of setting up your GitHub profile or project documentation?
