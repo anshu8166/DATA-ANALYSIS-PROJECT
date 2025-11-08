@@ -32,9 +32,7 @@ The purpose is to provide **data-driven insights** to optimize resource allocati
 ### 📷 Dashboard Preview
 
 
-![Road Accident Dashboard](./Road%20Accident%20Dashboard.png)
-<img width="1916" height="1020" alt="image" src="https://github.com/user-attachments/assets/998c1f0f-f184-4a3a-8913-819ce5420d18" />
-### ⚙️ Tools & Technologies
+![Uber Data Dashboard View](../uber data.png)### ⚙️ Tools & Technologies
 
 | Category | Tool/Technology | Role in Project |
 | :--- | :--- | :--- |
