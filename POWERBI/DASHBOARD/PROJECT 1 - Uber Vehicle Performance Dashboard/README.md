@@ -23,7 +23,6 @@ The purpose of this dashboard is to analyze the operational efficiency and profi
 
 | Link Type | URL |
 | :--- | :--- |
-| **Dashboard File** | [View Dashboard](https://drive.google.com/file/d/1JvSVvaWzBwrxxb90WQeAX_fVGau5W2qt/view?usp=sharing) |
 | **Dataset Link** | [Download Dataset](https://docs.google.com/spreadsheets/d/1yv0og1xhrw2vC86MQCvtYyT59bM4S1zg/edit?usp=sharing&ouid=106995286074217522416&rtpof=true&sd=true) |
 | **Dashboard Previews** | [View Screenshots](https://drive.google.com/drive/folders/19V5QJf8bUTIsfmZkbUU52rTRIwjaEGW2?usp=sharing) |
 
