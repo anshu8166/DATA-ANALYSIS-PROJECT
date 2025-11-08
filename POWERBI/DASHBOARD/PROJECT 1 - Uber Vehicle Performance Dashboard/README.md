@@ -32,6 +32,7 @@ The purpose is to provide **data-driven insights** to optimize resource allocati
 
 ### 📷 Dashboard Preview
 
+
 **![Dashboard Main View](../Screenshot 2025-11-08 232538.png)**
 
 ---
