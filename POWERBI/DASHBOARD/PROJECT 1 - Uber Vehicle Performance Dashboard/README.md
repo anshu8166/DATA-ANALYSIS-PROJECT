@@ -23,7 +23,7 @@ The purpose is to provide **data-driven insights** to optimize resource allocati
 
 | Content Type | URL |
 | :--- | :--- |
-| ▶️ **Project Demo Video** | (https://drive.google.com/file/d/1xvgp3YyZ5WB8iEUUPkBK_jaPai7Lrq5K/view?usp=sharing) |
+| ▶️ **Project Demo Video** | [Project Demo Video](https://drive.google.com/file/d/1xvgp3YyZ5WB8iEUUPkBK_jaPai7Lrq5K/view?usp=sharing) |
 | 🖼️ **Dashboard Screenshots** | [View Screenshots Folder](https://drive.google.com/drive/folders/19V5QJf8bUTIsfmZkbUU52rTRIwjaEGW2?usp=sharing) |
 | 📂 **Dataset Link** | [Download Dataset](https://docs.google.com/spreadsheets/d/1yv0og1xhrw2vC86MQCvtYyT59bM4S1zg/edit?usp=sharing&ouid=106995286074217522416&rtpof=true&sd=true) |
 
