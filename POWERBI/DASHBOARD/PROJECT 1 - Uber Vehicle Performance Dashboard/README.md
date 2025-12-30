@@ -28,7 +28,6 @@ The purpose is to provide **data-driven insights** to optimize resource allocati
 | 📂 **Dataset Link** | [Download Dataset](https://docs.google.com/spreadsheets/d/1yv0og1xhrw2vC86MQCvtYyT59bM4S1zg/edit?usp=sharing&ouid=106995286074217522416&rtpof=true&sd=true) |
 
 ---
-▶️ [Watch Project Demo](https://drive.google.com/file/d/1ackX3FkOXKXaZKmnJxFGbYwCKGeWAXDd/view?usp=sharing)
 
 ### 📷 Dashboard Preview
 
