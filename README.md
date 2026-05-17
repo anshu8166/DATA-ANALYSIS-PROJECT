@@ -65,5 +65,5 @@ I welcome feedback, collaboration ideas, and discussions on data analysis best p
 * **LinkedIn:** [**www.linkedin.com/in/anshu-kumar-tiwari-755a3b25b**]
 
 ---
-**Note:** Remember to **create a file named `README.md`** in the root of your repository and paste this content into it. You should also replace the bracketed placeholders with your specific information!
+
 
