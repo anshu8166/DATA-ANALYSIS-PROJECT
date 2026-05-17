@@ -15,7 +15,7 @@ The goal is to generate business insights related to revenue, customer behavior,
 
 ## 🔄 Project Workflow
 1. Collected dataset from Kaggle (public dataset)
-2. Cleaned and processed data using Python (Pandas)
+2. Cleaned and processed data PowerBi 
 3. Stored structured data in MySQL database
 4. Performed analysis using SQL queries
 5. Built interactive Power BI dashboard
