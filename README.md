@@ -106,7 +106,7 @@ Retail analytics project focused on:
 ### Anshu Kumar
 🎓 BTech Student  
 📊 Aspiring Data Analyst  
-☁️ Interested in Cloud & DevOps  
+☁️ Interested in   Data Analyst  , Powerbi developer , Mis Executive 
 
 ---
 
