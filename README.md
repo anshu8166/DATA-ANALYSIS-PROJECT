@@ -1,4 +1,3 @@
-
 # 📊 Data Analytics Portfolio
 
 <div align="center">
@@ -15,11 +14,32 @@ Transforming raw data into meaningful business insights through interactive dash
 
 ```bash
 📦 DATA-ANALYTICS-PORTFOLIO
- ┣ 📂 ROAD ACCIDENT DASHBOARD
- ┣ 📂 UBER VEHICLE ANALYSIS DASHBOARD
+ ┣ 📂 CUSTOMER-CHURN-ANALYSIS-DASHBOARD
+ ┣ 📂 EXCEL
+ ┣ 📂 POWERBI
  ┣ 📂 RETAIL SALES PERFORMANCE DASHBOARD
  ┗ 📄 README.md
 ```
+
+---
+
+# 📉 Customer Churn Analysis Dashboard
+
+### 📌 Overview
+A business analytics dashboard focused on identifying:
+- 👥 Customer retention trends
+- ❌ Churn patterns
+- 💳 Subscription behavior
+- 📊 Customer segmentation
+
+### 🛠️ Tools Used
+`Power BI` • `Excel` • `Data Visualization`
+
+### ✨ Key Highlights
+✔ Churn Rate Analysis  
+✔ Customer Segmentation  
+✔ KPI Tracking  
+✔ Interactive Insights  
 
 ---
 
@@ -103,10 +123,10 @@ Retail analytics project focused on:
 
 # 👨‍💻 About Me
 
-### Anshu Kumar
+### Anshu Kumar Tiwari
 🎓 BTech Student  
 📊 Aspiring Data Analyst  
-☁️ Interested in   Data Analyst  , Powerbi developer , Mis Executive 
+☁️ Interested in Cloud & DevOps  
 
 ---
 
@@ -125,4 +145,3 @@ If you like this repository:
 ## 🚀 Turning Data Into Insights
 
 </div>
-````
