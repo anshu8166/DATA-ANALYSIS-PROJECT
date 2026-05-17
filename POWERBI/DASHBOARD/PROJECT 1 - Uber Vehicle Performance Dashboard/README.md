@@ -37,7 +37,7 @@ The purpose is to provide **data-driven insights** to optimize resource allocati
 | Category | Tool/Technology | Role in Project |
 | :--- | :--- | :--- |
 | **Dashboarding** | **[ Power BI ]** | Primary tool for visualization and interactivity. |
-| **Data Processing** | **[e.g., Power Query ( Excel]** | Data cleaning, transformation, and shaping. |
+| **Data Processing** | **[Power Query ( Excel)]** | Data cleaning, transformation, and shaping. |
 | **Analysis** | Data Visualization Techniques | Implementing charts, graphs, slicers, and filters. |
 
 ---
