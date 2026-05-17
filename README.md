@@ -15,9 +15,9 @@ Transforming raw data into meaningful business insights through interactive dash
 ```bash
 📦 DATA-ANALYTICS-PORTFOLIO
  ┣ 📂 CUSTOMER-CHURN-ANALYSIS-DASHBOARD
- ┣ 📂 EXCEL
- ┣ 📂 POWERBI
- ┣ 📂 RETAIL SALES PERFORMANCE DASHBOARD
+ ┣ 📂 ROAD-ACCIDENT-DASHBOARD
+ ┣ 📂 UBER-VEHICLE-ANALYSIS-DASHBOARD
+ ┣ 📂 RETAIL-SALES-PERFORMANCE-DASHBOARD
  ┗ 📄 README.md
 ```
 
@@ -43,12 +43,10 @@ A business analytics dashboard focused on identifying:
 
 ---
 
-# 🚧 Excel Dashboard Projects
-
-## 🚦 Road Accident Dashboard
+# 🚧 Road Accident Dashboard
 
 ### 📌 Overview
-An interactive Excel dashboard analyzing:
+An interactive dashboard analyzing:
 - 🚗 Vehicle-wise accidents
 - 📈 Monthly accident trends
 - ⚠️ Casualty analysis
@@ -65,9 +63,7 @@ An interactive Excel dashboard analyzing:
 
 ---
 
-# 📊 Power BI Projects
-
-## 🚖 Uber Vehicle Analysis Dashboard
+# 🚖 Uber Vehicle Analysis Dashboard
 
 ### 📌 Overview
 Power BI dashboard designed to analyze:
