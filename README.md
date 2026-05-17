@@ -15,8 +15,8 @@ Transforming raw data into meaningful business insights through interactive dash
 
 ```bash
 📦 DATA-ANALYTICS-PORTFOLIO
- ┣ 📂 EXCEL
- ┣ 📂 POWERBI
+ ┣ 📂 ROAD ACCIDENT DASHBOARD
+ ┣ 📂 UBER VEHICLE ANALYSIS DASHBOARD
  ┣ 📂 RETAIL SALES PERFORMANCE DASHBOARD
  ┗ 📄 README.md
 ```
