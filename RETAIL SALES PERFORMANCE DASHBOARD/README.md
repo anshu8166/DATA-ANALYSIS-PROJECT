@@ -1,7 +1,7 @@
 # 📊 Retail Sales Performance Dashboard
 
 ## 📌 Project Overview
-This project focuses on analyzing retail sales data using Python, SQL, and Power BI. 
+This project focuses on analyzing retail sales data using  SQL, and Power BI. 
 The goal is to generate business insights related to revenue, customer behavior, and regional performance through an interactive dashboard.
 
 ---
@@ -9,8 +9,6 @@ The goal is to generate business insights related to revenue, customer behavior,
 ## 🛠 Tools & Technologies
 - Power BI (Dashboard & Visualization)
 - MySQL (Database Management)
-- Python (Data Cleaning & Processing)
-- Pandas (Data Analysis)
 - Git & GitHub (Version Control)
 
 ---
