@@ -9,7 +9,8 @@ The purpose is to provide **data-driven insights** to optimize resource allocati
 ---
 
 ## 📷 Dashboard Preview
-<img width="1916" height="1020" alt="image" src="POWERBI/DASHBOARD/PROJECT 1 - Uber Vehicle Performance Dashboard/Uber Data.png" />
+
+<img src="./Uber Data.png" width="100%">
 ---
 
 ### 🔑 Key Operational Insights
