@@ -86,6 +86,8 @@ Power BI dashboard designed to analyze:
 ✔ Time-Based Insights  
 ✔ Business Intelligence Reporting  
 
+## 📷 Dashboard Preview
+<img width="1916" height="1020" alt="image" src="POWERBI/DASHBOARD/PROJECT 1 - Uber Vehicle Performance Dashboard/Uber Data.png" />
 ---
 
 # 🛒 Retail Sales Performance Dashboard
