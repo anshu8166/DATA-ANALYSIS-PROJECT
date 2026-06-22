@@ -65,7 +65,6 @@ An interactive dashboard analyzing:
 
 ## 📷 Dashboard Preview
 
-![Road Accident Dashboard](./Road%20Accident%20Dashboard.png)
 <img width="1916" height="1020" alt="image" src="EXCEL/DASHBOARD/PROJECT 1 - Road Accident Analysis/Road Accident Dashboard.png" />
 ---
 
@@ -106,6 +105,9 @@ Retail analytics project focused on:
 ✔ Sales Trends  
 ✔ Category Insights  
 ✔ KPI Monitoring  
+
+## 📷 Dashboard Preview
+<img width="1916" height="1020" alt="image" src="RETAIL SALES PERFORMANCE DASHBOARD/SCREENSHOT/Screenshot 2026-06-22 145140.png" />
 
 ---
 
